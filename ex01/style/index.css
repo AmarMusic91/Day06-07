@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+}
+.kolona {
+
+    float:left;
+    width: 33.33%;
+    padding: 3px;
+    }
+    .kolona img {
+        height: 300px;
+    }
+    
+h1 {
+    color:red;
+    font-size: large;
+    text-align: center;
+}
+h4 {
+    color:lightblue;
+    margin: 10px;
+  
+}
+
+p {
+    text-align: justify;
+    margin: 10px;
+    width: 95%;
+}
+
+
+
